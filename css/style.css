@@ -196,3 +196,48 @@ footer{
 .conteudo_info p{
     margin-bottom: 40px;
 }
+
+.line{
+    background-color: white;
+    height: 1px;
+    width: 13%;
+    margin-bottom: 20px;
+}
+
+
+
+.conteudo_info2{
+    width: 40%;
+    float: left;
+
+}
+
+.img{
+    background-color: #30851d;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.img img{
+    width: 300px;
+    position: absolute;
+    top: 40%;
+}
+
+.footer2{
+    background-color: #f1f6f1;
+    padding: 15px 0;
+}
+
+.logo1{
+    float: left;
+    width: 33.3%;
+}
+
+.social{
+    float: left;
+    width: 33.3%;
+    text-align: center;
+}

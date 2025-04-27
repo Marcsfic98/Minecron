@@ -256,3 +256,15 @@ footer{
     margin-top: 20px;
 }
 
+
+
+
+
+
+@media screen and (max-width:768px) {
+    .texto_topo ,.img_topo{width: 100%; text-align: center;margin-bottom: 50px;}
+    .depoimentos_single{ width: 100%;margin-right: 0; }
+    .sobre_single{width: 100%;}
+    .menu{display: inline-block; border-top:3px solid #2bb222 ;padding: 20px 30px;}
+    .conteudo_info , .conteudo_info2{width: 100%;}
+}

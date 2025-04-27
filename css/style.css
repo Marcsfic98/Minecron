@@ -241,3 +241,18 @@ footer{
     width: 33.3%;
     text-align: center;
 }
+
+.social i{
+    cursor: pointer;
+    font-size:20px;
+    margin: 20px 10px;
+}
+
+.autor{
+    float: left;
+    width: 33.3%;
+    color: #2bb222;
+    text-align: center;
+    margin-top: 20px;
+}
+
